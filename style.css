@@ -539,10 +539,10 @@ img.mr-3 {
   resize: none;
 }
 #status {
-  width: 90%;
-  max-width: 500px;
-  text-align: center;
-  padding: 10px;
-  margin: 0 auto;
-  border-radius: 8px;
+    width: 86%;
+    max-width: 500px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 22px;
 }
+
