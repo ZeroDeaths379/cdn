@@ -341,3 +341,4 @@ function getCookieVal(c){var d=document.cookie.indexOf(";",c);if(d==-1){d=docume
 function inv(){policywnd=window.open("https://discord.com/api/oauth2/authorize?client_id=761909793572257813&permissions=8&scope=bot%20applications.commands","pcrew_policy","width=496,height=550,left=390,top=300,menubar=no,status=no,toolbar=no");policywnd.focus()};
 function srv(){policywnd=window.open("https://discord.com/invite/2emaWgXcU2","pcrew_policy","width=496,height=437,left=374,top=394,menubar=no,status=no,toolbar=no");policywnd.focus()};  
 function bug(){policywnd=window.open("https://orion-bot.xyz/bug","_blank","width=422,height=454,left=422,top=394,menubar=no,status=no,toolbar=no");policywnd.focus()};  
+function tos(){document.getElementsByTagName("title")[0].innerHTML="ORION | TOS"}function home(){document.getElementsByTagName("title")[0].innerHTML="ORION"}function prt(){document.getElementsByTagName("title")[0].innerHTML="ORION | Partners"};
