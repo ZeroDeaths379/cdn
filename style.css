@@ -545,4 +545,8 @@ img.mr-3 {
     padding: 5px;
     border-radius: 22px;
 }
-
+.card-body {
+    background: #2a3036;
+    border-radius: 10px;
+    margin: 10px;
+}
