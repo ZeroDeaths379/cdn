@@ -514,12 +514,10 @@ img.mr-3 {
   opacity: 0;
 }
 .ctr {
-  width: 500px;
-  max-width: 449px;
-  margin: 60px auto;
-  padding: 5px;
-  border-radius: 8px;
-  margin-bottom: 20px;
+    width: 500px;
+    max-width: 449px;
+    margin: 18px auto;
+    padding: 5px;
 }
 .form-group {
   width: 100%;
@@ -544,7 +542,7 @@ img.mr-3 {
     text-align: center;
     padding: 5px;
     border-radius: 22px;
-    margin: 15px;
+    margin: 0 8px 10px;
 }
 .card-body {
     background: #2a3036;
