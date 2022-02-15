@@ -557,3 +557,27 @@ img.mr-3 {
 .h-captcha {
     margin-left: 11%;
 }
+.partnerDesc{
+    text-align:center;
+    font-family: Roboto, sans-serif;
+    color: #fff;
+    font-size: 1.15em;
+    font-weight: 400;
+}
+.partnersButton{
+    width: 229px;
+    height: 45px;
+    color: #fff;
+    font-weight: 700;
+    background-color: #5663f7;
+    padding: 8px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 14px 24px 2px 0;
+    cursor: alias;
+    font-size: 16px;
+    border: 0;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
